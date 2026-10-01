@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.sivi.org/verzuim/werkgever-arbo/2026" elementFormDefault="qualified">
+  <!-- Simulatie XSD voor Verzuimmeldingen 2026 -->
+</xs:schema>
